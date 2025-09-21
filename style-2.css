@@ -1,0 +1,17 @@
+body { font-family:Arial, sans-serif; background:#f4f4f9; padding:20px; }
+.header { background:#512c0e; color:#faf6f6; text-align:center; padding:20px; }
+.navbar { background:#673a16; overflow:hidden; }
+.navbar a { float:left; padding:30px 40px; color:white; text-decoration:none; }
+.navbar a:hover { background:#4e1111; color:#dfdf4d; }
+.container { overflow:hidden; padding:20px; }
+#grades-heading { text-align:center; color:#b78649; margin-bottom:20px; }
+table { border-collapse:collapse; width:80%; margin:0 auto 40px auto; }
+th,td { border:1px solid #8f603f; padding:10px; text-align:center; }
+th { background:#8e5b2c; color:white; }
+tr:nth-child(even) { background:#f9f9f9; }
+.highlight-row { background:#fffa90; }
+form { max-width:400px; margin:0 auto; background:#fff; padding:20px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1); }
+label { font-weight:bold; }
+input,select,textarea { width:100%; padding:8px; margin-top:5px; margin-bottom:15px; border:1px solid #ccc; border-radius:5px; }
+.btn { background:#5f3511; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer; }
+.btn:hover { background:#714710; }
