@@ -1,0 +1,50 @@
+/* Reset default styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+}
+body { margin:0; font-family: Arial, sans-serif; background:#a89287; }
+.header { background:#512c0e; color:#faf6f6; text-align:center; padding:20px; }
+.navbar { background:#673a16; overflow:hidden; }
+.navbar a { float:left; padding:30px 40px; color:white; text-decoration:none; }
+.navbar a:hover { background:#4e1111; color:#ffd700; }
+/* Header */
+header {
+    background: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Main content */
+main {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Styled link as button */
+.link-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #4a90e2;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.link-btn:hover {
+    background: #357abd;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px;
+    margin-top: 40px;
+}
